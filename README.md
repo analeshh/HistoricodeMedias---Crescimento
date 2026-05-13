@@ -2,15 +2,15 @@
 
 --
 
-# 🎓 Dashboard SISU 2020–2025
+#  Dashboard SISU 2020–2025
 
-## 📌 Sobre o Projeto
+##  Sobre o Projeto
 
 Projeto de análise de dados desenvolvido no Power BI utilizando notas de corte do SISU entre os anos de 2020 e 2025. A dashboard foi criada para analisar tendências, competitividade dos cursos, modalidades de vaga e evolução das notas ao longo dos anos.
 
 ---
 
-# 🗂 Base de Dados
+# Base de Dados
 
 A base contém informações relacionadas ao SISU, incluindo:
 
@@ -25,7 +25,7 @@ Os dados foram organizados e estruturados para permitir análises comparativas e
 
 ---
 
-# 🧹 Tratamento de Dados
+# Tratamento de Dados
 
 Durante o desenvolvimento do projeto foram realizados:
 
@@ -37,7 +37,7 @@ Durante o desenvolvimento do projeto foram realizados:
 
 ---
 
-# 📊 Medidas Criadas
+# Medidas Criadas
 
 Algumas medidas DAX utilizadas:
 
@@ -47,7 +47,7 @@ Media_Notas = AVERAGE(sisu[Nota])
 Maior_Nota = MAX(sisu[Nota])
 ```
 ---
-# 📈 Análises
+# Análises
 
 A dashboard apresenta:
 
@@ -58,7 +58,7 @@ A dashboard apresenta:
 
 ---
 
-# 💡 Insights
+# Insights
 
 * Cursos da área da saúde apresentaram maiores notas médias.
 * A ampla concorrência possui as notas mais elevadas.
@@ -67,7 +67,7 @@ A dashboard apresenta:
 
 ---
 
-# 🎯 Objetivo do Projeto
+# Objetivo do Projeto
 
 Transformar dados do SISU em informações visuais e estratégicas, facilitando análises sobre competitividade, evolução das notas e comportamento das modalidades de ingresso.
 
@@ -81,17 +81,14 @@ Além disso, o projeto busca desenvolver habilidades em:
 
 ---
 
-# 🛠 Ferramentas Utilizadas
+# Ferramentas Utilizadas
 
 * Power BI
 * Excel
 * DAX
 * Power Query
 
+# Autores
+Desenvolvido por Ana Letícia e Fernanda Pinheiro
 ---
 
-# 🚀 Autores
-Ana Leticia e Fernanda Pinheiro.
-
-
-Desenvolvido por Lesh.
