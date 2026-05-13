@@ -45,9 +45,8 @@ Algumas medidas DAX utilizadas:
 Media_Notas = AVERAGE(sisu[Nota])
 
 Maior_Nota = MAX(sisu[Nota])
-
+```
 ---
-
 # 📈 Análises
 
 A dashboard apresenta:
